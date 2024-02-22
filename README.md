@@ -22,7 +22,7 @@ This Repository will teach you two parts using PYTHON (**please click on the res
 
 (1) Learn the basic of **Data Cleaning and Visualization**: pandas, numpy. Visualization of graph using MAT PLOTLY and SEABORN. You can visualize geographical information (GPKG) using OSMNx. Please click here [https://miftahulfahmi-code.github.io/datascience_world_01/spatial_analysis_VISUALIZATION.html]
 
-(2) Learn the basic of **Data Integration** (Combine data from different sources) and **REGRESSION** (simplest part of unsupervised machine learning). Here, we will use SKLEARN as the main part of Regression analysis. Please click here [https://miftahulfahmi-code.github.io/datascience_world_01/spatial_analysis_REGRESSION.html]
+(2) Learn the basic of **Data Integration** (Combine data from different sources) and **REGRESSION** (**example of unsupervised machine learning**). Here, we will use SKLEARN as the main part of Regression analysis. Please click here [https://miftahulfahmi-code.github.io/datascience_world_01/spatial_analysis_REGRESSION.html]
 
 ----
 
