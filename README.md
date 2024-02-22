@@ -1,5 +1,4 @@
-# datascience_world_01: 
-_Things you might miss as a Data Scientist: Geospatial Data Analytics_
+# datascience_world_01: _Things you might miss as a Data Scientist: Geospatial Data Analytics_
 
 This World Theme: "**Spatial Data Science**" 🌎🌍💐
 
