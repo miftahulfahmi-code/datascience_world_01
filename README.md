@@ -9,6 +9,8 @@ With visualization, especially geospatial, you can see how spread an information
 
 Here, I will teach you some important tricks related to Geospatial Data Science using python language. I put detailed code below, please study carefully guys, because I make it all crystal clear!
 
+Please note that I will use a real data, from India case about Immunization level in India. By spatial analysis, you can see that not all region in this beautiful country is immunized, especially youngsters!
+
 This Repository will teach you two parts using PYTHON (**please click on the respective links below!**)
 
 (1) Learn the basic of **Data Cleaning and Visualization**: pandas, numpy. Visualization of graph using MAT PLOTLY and SEABORN. You can visualize geographical information (GPKG) using OSMNx. Please click here [https://miftahulfahmi-code.github.io/datascience_world_01/spatial_analysis_VISUALIZATION.html]
