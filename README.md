@@ -1,5 +1,6 @@
 # datascience_world_01
-This World Theme: "**Spatial Data Science**"
+This World Theme: "**Spatial Data Science**" 🌎🌍💐
+
 It is beautiful to understand the data and environment as a CLOUD!
 Imagine you want to see how spread our world is, how socio-economic affects in each cities, then we need to fly further (helicopter viewer).
 
