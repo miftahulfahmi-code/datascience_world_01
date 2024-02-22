@@ -7,7 +7,7 @@ Imagine you want to see how spread our world is, how socio-economic affects in e
 
 This Repository will teach you two parts (**please click on the respective links below!**)
 
-(1) Learn the basic of **Data Cleaning and Visualization**: pandas, numpy. Visualization of graph using MAT PLOTLY and SEABORN. You can visualize geographical information (GPKG) using OSMNx. Please click here []
+(1) Learn the basic of **Data Cleaning and Visualization**: pandas, numpy. Visualization of graph using MAT PLOTLY and SEABORN. You can visualize geographical information (GPKG) using OSMNx. Please click here [https://miftahulfahmi-code.github.io/datascience_world_01/spatial_analysis_VISUALIZATION.html]
 
 (2) Learn the basic of **Data Integration** (Combine data from different sources) and **REGRESSION** (simplest part of unsupervised machine learning). Here, we will use SKLEARN as the main part of Regression analysis. Please click here []
 
