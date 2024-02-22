@@ -6,7 +6,7 @@ Why Geospatial?
 
 Well, basically Geospatial = Beautiful Spatial Visualization + Data Science.
 
-It IS data science! But not many people know about the benefits of analyzing data and visualize it spatially (instead of boring graph!)
+It IS data science! But not many people know about the benefits of analyzing data and visualize it spatially (instead of boring graph!). Note: well, please make sure that your data can be appropriately (and necessarily) shown as spatial data. For example: mapping of data in certain lines in a factory, spread of GDP across Netherlands, etc.
 
 Also,
 
