@@ -3,6 +3,13 @@
 This World Theme: "**Spatial Data Science**" 🌎🌍💐
 
 Why Geospatial?
+
+Well, basically Geospatial = Beautiful Spatial Visualization + Data Science.
+
+It IS data science! But not many people know about the benefits of analyzing data and visualize it spatially (instead of boring graph!)
+
+Also,
+
 It is beautiful to understand the data and environment as a CLOUD!
 Imagine you want to see how spread our world is, how socio-economic affects in each cities, then we need to fly further (helicopter viewer).
 With visualization, especially geospatial, you can see how spread an information is to extend of some areas, at a glimpse.
